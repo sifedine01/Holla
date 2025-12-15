@@ -1,0 +1,16 @@
+SCREENS THAT NEED BLACK THEME FIXES:
+
+1. EmailRegisterScreen.kt - Fix all 3 text field containers
+2. All profile screens (IdentifyYourselfScreen, InterestedScreen, AddPhotosScreen)
+3. EditProfileScreen.kt
+4. DeleteAccountScreen.kt
+5. MatchScreen.kt
+
+CHANGES NEEDED FOR EACH:
+- Background: Color.Black
+- Cards: Color(0xFF1A1A1A)
+- Text: Color.White
+- TextFields: Color(0xFF2A2A2A)
+- Keep pink buttons as HolaPinkPrimary
+
+The Material3 theme I updated will handle some components automatically, but hardcoded colors need manual fixes.

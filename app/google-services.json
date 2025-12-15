@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254308408712",
+    "project_id": "holadatingapp",
+    "storage_bucket": "holadatingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254308408712:android:8d3616fd07758eb902ee3d",
+        "android_client_info": {
+          "package_name": "com.sifedin.tinderclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkH6yNhduERia3kExtNdhAVf5IpmIqgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
